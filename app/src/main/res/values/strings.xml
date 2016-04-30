@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">turista</string>
+    <string name="mainActivityLabel">Turista</string>
+    <string name="categoriasActLabel">Turista</string>
+</resources>

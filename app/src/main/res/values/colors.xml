@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparenton">#78000000</color>
+    <color name="amarilloTurista">#fdb813</color>
+    <color name="amarilloOscuroTurista">#c28902</color>
+    <color name="marronTurista">#582700</color>
+</resources>
